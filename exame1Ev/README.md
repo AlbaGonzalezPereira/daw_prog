@@ -23,12 +23,12 @@ debuxar:
     * Un “ ***Design*** ” é un obxecto que almacena “Figuras” nun array de Figuras que é un atributo **únicamente accesible dende a propia clase**. O seu construtor recibe como argumento o número máximo de figuras que pode almacenar. Un “Design” dispón da capacidade de engadir obxectos Figura, eliminar todas as figuras do Design e de visualizar o “***Design” facendo uso dun “Drawable”*** que recibe como parámetro.
 <br><br>
 
-    **SE PIDE:**
-    * Crear a clase Text. (ver Drawable) 
-    * Crear a clase Polygon
-    * Crear a clase Rectangle
-    * Crear a clase Square 
-    * Crear a clase Design
+**SE PIDE:**
+   * Crear a clase Text. (ver Drawable) 
+   * Crear a clase Polygon
+   * Crear a clase Rectangle
+   * Crear a clase Square 
+   * Crear a clase Design
 
 <br>
 
