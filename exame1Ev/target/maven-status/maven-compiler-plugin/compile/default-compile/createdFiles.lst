@@ -1,0 +1,8 @@
+com\iesrodeira\Designer\Figura.class
+com\iesrodeira\Draw\Paper.class
+com\iesrodeira\Designer\Text.class
+com\iesrodeira\Designer\Polygon.class
+com\iesrodeira\Draw\Drawable.class
+com\iesrodeira\Draw\Drawable$Direction.class
+com\iesrodeira\Draw\Point.class
+com\iesrodeira\Draw\Paper$1.class

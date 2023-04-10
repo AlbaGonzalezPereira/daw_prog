@@ -1,0 +1,8 @@
+com\iesrodeira\utils\InputUtils.class
+com\iesrodeira\almacen\ArtigoAlimentacion.class
+com\iesrodeira\almacen\ArtigoLimpeza.class
+com\iesrodeira\almacen\Almacen.class
+com\iesrodeira\almacen\ArtigoPerfumeria.class
+com\iesrodeira\AppAlmacen\AppAlmacen.class
+com\iesrodeira\almacen\ArtigoFarmacia.class
+com\iesrodeira\almacen\Artigo.class
