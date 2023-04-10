@@ -8,11 +8,14 @@ debuxar:
     * Un “***Paper***” é un obxecto *Drawable* que *debuxa nun array de char de **y** filas por **x** columnas* e dispón de versións propias dos métodos ***drawLineHorizontal***, ***drawLineVertical***, ***point***, ***drawText***, ***show*** e ***clear***. A **clase Paper é accesible dende calquera parte** e dispón dun ***constructor que permite crear un array de char de y filas por x columnas (recibindo y e x como parámetros)*** onde se realizarán os debuxos representando os puntos cun ‘*’ sexan da cor que sexan (a cor se ignora).
     * O construtor debe instanciar o array de char de y filas por x columnas e inicializalo a “ “ chamando ao método “***clear***”
     * A clase “*Paper*” debe ser final.
-<br><br>
-    **SE PIDE:**
-    * Crear a clase Point 
-    * Crear a clase Paper 
-<br><br>
+
+<br>
+
+**SE PIDE:**
+* Crear a clase Point 
+* Crear a clase Paper 
+
+<br>
 
 2. No paquete **com.iesrodeira.Designer** creamos as clases necesarias para a nosa aplicación, accesibles dende calquera parte:
     * Unha “ ***Figura*** ” é un obxecto que pode ser representado nunha posición dun “Drawable” (***Ver clase Figura***)
