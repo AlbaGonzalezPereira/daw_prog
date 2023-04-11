@@ -1,4 +1,4 @@
-## ENUNCIADO
+## ENUNCIADO TAREA07-PROG
 
 Se trata de desarrollar una aplicación Java, denominada **PROG07_Tarea** que permita gestionar varios tipos de **cuentas bancarias**. Mediante un menú se podrán elegir determinas operaciones:
 
