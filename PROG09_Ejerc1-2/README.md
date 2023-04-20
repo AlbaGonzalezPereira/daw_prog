@@ -145,7 +145,7 @@ En la clase ``Principal`` añadimos el siguiente método:
 
     }
 ```
-En la clase Banco añadimos el siguiente código:
+En la clase ``Banco`` añadimos el siguiente método:
 ```java
     /**
      * método que devolve as contas bancarias
