@@ -13,16 +13,16 @@ Observa en las siguientes imágenes la estructura de cada una de las tablas. Obs
 
 <div align = center>
 <figure>
+<figcaption><h5>Tabla Vehículos</h5></figcaption>
 <img src="https://github.com/AlbaGonzalezPereira/daw_prog/blob/main/PROG11_conexionBBDD/img/PROG11_TAR_R01_tabla.PNG" alt="tabla Vehículos" style = "width: 60%">
-<figcaption>Tabla Vehículos</figcaption>
 </figure>
 </div>
 <br>
 
 <div align = center>
 <figure>
+<figcaption><h5>Tabla Propietarios</h5></figcaption>
 <img src="https://github.com/AlbaGonzalezPereira/daw_prog/blob/main/PROG11_conexionBBDD/img/PROG11_TAR_R02_tabla.PNG" alt="tabla Propietarios" style = "width: 60%">
-<figcaption>Tabla Propietarios</figcaption>
 </figure>
 </div>
 <br>
