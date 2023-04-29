@@ -17,7 +17,6 @@ Observa en las siguientes imágenes la estructura de cada una de las tablas. Obs
 <img src="https://github.com/AlbaGonzalezPereira/daw_prog/blob/main/PROG11_conexionBBDD/img/PROG11_TAR_R01_tabla.PNG" alt="tabla Vehículos" style = "width: 60%">
 </figure>
 </div>
-<br>
 
 <div align = center>
 <figure>
