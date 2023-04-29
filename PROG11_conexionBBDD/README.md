@@ -11,10 +11,10 @@ En esta última unidad vamos a implementar una pequeña aplicación que utilice 
 
 Observa en las siguientes imágenes la estructura de cada una de las tablas. Observa como en la tabla vehículos, el campo **id_prop** es una clave externa hacia la tabla propietarios.
 
-<div align = center><img src="https://github.com/AlbaGonzalezPereira/daw_prog/tree/main/PROG11_conexionBBDD/img/PROG11_TAR_R01_tabla.PNG" alt="tabla1" style = "width: 60%"></div>
+<div align = center><img src="https://github.com/AlbaGonzalezPereira/daw_prog/blob/main/PROG11_conexionBBDD/img/PROG11_TAR_R01_tabla.PNG" alt="tabla Vehículos" style = "width: 60%"></div>
 <br>
 
-<div align = center><img src="https://github.com/AlbaGonzalezPereira/daw_prog/tree/main/PROG11_conexionBBDD/img/PROG11_TAR_R02_tabla.PNG" alt="tabla2" style = "width: 60%"></div>
+<div align = center><img src="https://github.com/AlbaGonzalezPereira/daw_prog/blob/main/PROG11_conexionBBDD/img/PROG11_TAR_R02_tabla.PNG" alt="tabla Propietarios" style = "width: 60%"></div>
 <br>
 
 El campo **id_prop** de la tabla **Propietarios** puede tener un valor **auto_incremento**.
