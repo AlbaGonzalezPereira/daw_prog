@@ -32,9 +32,9 @@ Se pide un programa Java que realice as seguintes operacións utilizando os fich
 
 **NOTA:** Os cambios se deben facer **inmediatamente nos ficheiros de datos**, non é válido cargar todos os datos en memoria no inicio do programa volcando os resultados o final.
 
-Se aconsella separar o acceso a os datos da lóxica do programa facendo unha clase ``Database`` ou similar. O ideal e deseñar unha Interface definindo o API da ``Database`` e logo facer as clases ``VehiculoDatabase`` e ``PropietarioDatabase``. Dese xeito teremos unha API común de acceso a datos e será moito máis sinxelo o mantemento e modificación da aplicación.
+Se aconsella **separar o acceso a os datos da lóxica do programa** facendo unha clase ``Database`` ou similar. O ideal e deseñar unha Interface definindo o API da ``Database`` e logo facer as clases ``VehiculoDatabase`` e ``PropietarioDatabase``. Dese xeito teremos unha API común de acceso a datos e será moito máis sinxelo o mantemento e modificación da aplicación.
 
-Un xeito de facer as cousas máis fáciles e cargar no inicio do programa a información relativa as posicións no ficheiro de cada liña, por exemplo cun HashMap.
+Un xeito de facer as **cousas máis fáciles** e cargar no inicio do programa a información relativa as posicións no ficheiro de cada liña, por exemplo cun HashMap.
 ```java
 public class Index<K> {
 
