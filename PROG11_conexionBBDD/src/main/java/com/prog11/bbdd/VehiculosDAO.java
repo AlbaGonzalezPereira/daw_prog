@@ -80,7 +80,7 @@ public class VehiculosDAO {
      * @return - 0 se a operación se realizou con éxito ou -1 si o vehículo non existe.
      */
     public static int eliminarVehiculo(String matricula){
-        String sql = "DELETE FROM vehiculoss WHERE mat_veh = ?";
+        String sql = "DELETE FROM vehiculos WHERE mat_veh = ?";
         int numEliminados = 0;
         try(Connection con = ConnectionDB.openConnection();PreparedStatement stmt = con.prepareStatement(sql);) {
             //agregamos os valores:
